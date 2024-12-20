@@ -1,0 +1,4 @@
+# requirements.txt
+# Example dependencies (uncomment if needed)
+# Flask==2.0.3
+# requests==2.26.0
